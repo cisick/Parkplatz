@@ -2,7 +2,7 @@
 Eine Übung zum Thema Listen und Funktionen im Fach PG1
 
 0) Die Parkplätze bilden Sie in einer Liste ab.
-   Wie im Bild sind sechs Parkplätze verfügbar. Zu Begin sind alle Parkplätze leer.
+   Wie im Bild sind sechs Parkplätze verfügbar. Zu Beginn sind alle Parkplätze leer.
 1) Erstellen Sie eine Funktion "set_parkingspace", welche den Benutzer nach seinen Kennzeichen und Parkplatznummer fragt. 
    Die Funktion speichert das Kennzeichen als String für die jeweilige Parkplatznummer ab.
 2) Implementieren Sie die Funktion "free_parkingspace".
