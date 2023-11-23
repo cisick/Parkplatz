@@ -1,5 +1,6 @@
 # Parkplatz
 Eine Übung zum Thema Listen und Funktionen im Fach PG1
+
 0) Die Parkplätze bilden Sie in einer Liste ab.
    Wie im Bild sind sechs Parkplätze verfügbar. Zu Begin sind alle Parkplätze leer.
 1) Erstellen Sie eine Funktion "set_parkingspace", welche den Benutzer nach seinen Kennzeichen und Parkplatznummer fragt. 
